@@ -1,0 +1,38 @@
+
+.btn
+{
+	color: white;
+	background-color: green;
+	height: 40px;
+	width:100px;
+    border-radius: 10%;
+    margin-right: 30px;
+	
+}
+.btn:hover
+{
+	color: red;
+}
+.text
+{
+	width:350px;
+	height: 40px;
+	size:10px;
+	border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+
+.text:hover
+{
+background-color: black;
+color: white;
+}
+
+.link:hover
+{
+ color: white;
+}
+body{
+background-color: graytext;
+}
